@@ -2,7 +2,7 @@
 
 ## Installation
 
-`git clone https://github.com/v1tbrah/lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ`
+`git clone https://github.com/v1tbrah/go-dev-task-lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ`
 
 ### Note!
 * Because this is a training task:
