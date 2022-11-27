@@ -17,17 +17,17 @@
 * Run RMQ container `docker run -it --rm --name rabbitmq -p 5672:5672 -p 15672:15672 rabbitmq:3.11-management`
 * Open first terminal. Go to project working directory. Run API server with phone numbers. For example:
    ```
-   cd ~/go/src/lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ
+   cd ~/go/src/go-dev-task-lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ
    go run cmd/phone/main.go
    ```
 * Open second terminal. Go to project working directory. Run logger exchange. For example:
    ```
-   cd ~/go/src/lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ
+   cd ~/go/src/go-dev-task-lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ
    go run cmd/logger/main.go
    ```
 * Open third terminal. Go to project working directory. Run triggers app. For example:
    ```
-   cd ~/go/src/lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ
+   cd ~/go/src/go-dev-task-lcCmZaDDdmSQBcsIcqmxShzZyGOYqqgkBKbQ
    go run cmd/app/main.go
    ```
 * Let's push to triggers app:
